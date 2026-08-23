@@ -24,7 +24,7 @@ An interpretable hybrid deep-learning model for multihorizon solar-wind-speed fo
 - Developed using Python and PyTorch
 - Frequency-domain modelling
 - Model interpretability
-- Associated manuscript currently under review at *Space Weather*
+- Associated manuscript currently submitted to *Solar Physics*
 
 [View the FANBEATS repository](https://github.com/DanishAbbasBaloch/FANBEATS)
 
